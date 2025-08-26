@@ -14,7 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-`
+```
 #Program to find the solution for the given linear equations.
 #Developed by: Vinolia Alaina . R
 #RegisterNumber:212224240184
@@ -23,7 +23,7 @@ A = np.array([[1, 3],[2, 5]])
 B = np.array([5, -3])
 le= np.linalg.solve(A, B)
 print(le)
-`
+```
 ## Output:
 <img width="1447" height="941" alt="Screenshot 2025-08-21 093730" src="https://github.com/user-attachments/assets/0dd358ef-2fcf-42ab-a4be-e9c1d22d45c3" />
 
